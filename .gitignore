@@ -1,0 +1,18 @@
+# Raw datasets
+dataset_35_dermatology*.csv
+data/
+dataset/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Logs
+*.log
